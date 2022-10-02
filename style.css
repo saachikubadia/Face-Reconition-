@@ -1,0 +1,14 @@
+body{
+    background-color: hsl(160, 74%, 88%);
+}
+
+.heading{
+    width: 80%;
+    font-size: 19px;
+}
+
+#camera{
+    border: 2px solid black;
+    width: 360px;
+    height: 300px;
+}
